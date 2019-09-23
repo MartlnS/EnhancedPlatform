@@ -1292,23 +1292,4 @@ textarea {
   border-left: 1px solid #ddd;
 }
 
-#copyright {
-  background: #34363a;
-  border-top: 2px dotted #3b3d42;
-  padding: 10px;
-}
 
-#copyright p {
-  line-height: 42px;
-  color: #fff;
-  text-align: center;
-  margin: 0;
-}
-
-#copyright p a {
-  color: #fff;
-}
-
-#copyright p a:hover {
-  color: #137ED9;
-}
