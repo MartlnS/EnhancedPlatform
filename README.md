@@ -14,7 +14,7 @@ het css bestand dat gebruikt is voor het stylen van het grootste deel van de web
 2) [MsM](https://msm.enhancedplatform.xyz) ***Website voor opdracht***
 3) [EnhancedCloud](https://enhancedcloud.xyz) ***Cloud storage mbv. Nextcloud***
 4) [EnhancedPool](https://enhancedpool.xyz)***to be added later***
-5) [EnhancedExplorer](pool.enhancedpool.xyz)***Under construction***
+5) [EnhancedExplorer](https://pool.enhancedpool.xyz)***Under construction***
 
 
 ## 3rd party code
