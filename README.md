@@ -23,4 +23,4 @@ en is gemodificeerd om aan mijn eisen te voldoen.
 verder is de bijbehoorende [css](https://github.com/YellowFeveRs/EnhancedPlatform/tree/master/msm/assets/css) ook aangepast om aan mijn wensen te voldoen 
 
 ## License
-[MIT](https://github.com/YellowFeveRs/EnhancedPlatform/LICENSE)
+[MIT](https://github.com/YellowFeveRs/EnhancedPlatform/tree/master/LICENSE)
