@@ -20,7 +20,7 @@ het css bestand dat gebruikt is voor het stylen van het grootste deel van de web
 ## 3rd party code
 De [JavaScript](https://github.com/YellowFeveRs/EnhancedPlatform/tree/master/msm/assets/js) code die is gebruikt voor het annimeren van de websites is aangeleverd oor 3rd party developers
 en is gemodificeerd om aan mijn eisen te voldoen. 
-verder is de bijbehoorende [css](https://github.com/YellowFeveRs/EnhancedPlatform/tree/master/msm/assets/css)ook aangepast om aan mijn wensen te voldoen 
-***main.css is niet door een 3rd party developer aangeleverd***
+verder is de bijbehoorende [css](https://github.com/YellowFeveRs/EnhancedPlatform/tree/master/msm/assets/css) ook aangepast om aan mijn wensen te voldoen 
+
 ## License
 [MIT](https://github.com/YellowFeveRs/EnhancedPlatform/LICENSE)
