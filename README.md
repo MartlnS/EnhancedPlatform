@@ -10,7 +10,7 @@ het css bestand dat gebruikt is voor het stylen van het grootste deel van de web
 
 
 ## Links
-[Enhanced Platform(https://enhancedplatform.xyz)
+[Enhanced Platform](https://enhancedplatform.xyz)
 [MsM](https://msm.enhancedplatform.xyz)
 [EnhancedCloud](https://enhancedcloud.xyz)
 [EnhancedPool](https://enhancedpool.xyz)***to be added later***
