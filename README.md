@@ -4,8 +4,8 @@ Enhanced Platform is een platform dat ik voor mijzelf heb gebouwd om al mijn web
 
 ## HTML Cursus
 
-De site die ik voor deze opdracht heb gemaakt is [MsM](https://msm.enhancedplatform.xyz) de html voor deze website kunt u [hier](https://github.com/YellowFeveRs/EnhancedPlatform/tree/master/msm/index.html) vinden,
-het css bestand dat gebruikt is voor het stylen van het grootste deel van de website kunt [hier](https://github.com/YellowFeveRs/EnhancedPlatform/tree/master/assets/css/main.css) vinden.
+De site die ik voor deze opdracht heb gemaakt is [MsM](https://msm.enhancedplatform.xyz) de html voor deze website kunt u [hier](https://github.com/MartlnS/EnhancedPlatform/tree/master/msm/index.html) vinden,
+het css bestand dat gebruikt is voor het stylen van het grootste deel van de website kunt [hier](https://github.com/MartlnS/EnhancedPlatform/tree/master/assets/css/main.css) vinden.
 
 
 
