@@ -24,3 +24,14 @@
     
 8
     ze hielden zich bezig met ponskaarten printen.
+
+14
+  A
+    Een computer is een apparaat waarmee gegevens volgens formele procedures (algoritmen) kunnen worden verwerkt. Meestal wordt met het woord computer een elektronisch, digitaal apparaat bedoeld, maar er bestaan ook mechanische en analoge computers. Daarnaast kan een computer in verschillende talstelsels zoals het decimale (tientallige) of binaire (tweetallige) stelsel werken. De huidige computers werken altijd in het binaire stelsel. 
+    machine die heel snel kan rekenen en informatie kan verwerken
+  B
+    1938
+    
+15
+  A
+    > 304,510 MIPS
