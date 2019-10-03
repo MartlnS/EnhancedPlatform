@@ -46,3 +46,35 @@
     minder ruimte nodig, niet iedereen kan het uitletzen
 20
   sterker kleiner makkelijker op te slaan
+21
+  A
+    geintergreerde schakelingen (chips)
+  B
+    ze zijn duurzaam
+  C
+    ze hebben oplsag
+27
+  A 
+    ja het is allebei willekeurig 
+28
+  A 
+    code samenstellen; in elkaar zetten
+  B
+    Common Buissines Oriented Language 
+  C
+    Zakelijke omgeving
+29
+    rekunkundige functie
+30
+  A
+    Cobol 
+  B
+    Je snapt je eigen code niet meer
+  C
+    je kan je eigen code makkelijker begrijpen
+31
+    https://www.media.mit.edu/projects/space-craft/overview/
+32
+    Moore's law
+  
+  
