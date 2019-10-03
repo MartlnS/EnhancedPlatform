@@ -35,3 +35,14 @@
 15
   A
     > 304,510 MIPS
+17
+    ze waren te groot, langzaam, te duur, veel mensen nodig
+18
+    ja het is efficienter
+19
+  A
+    sneller bereikbaar, ponskaart kan stuk geheugen niet
+  B
+    minder ruimte nodig, niet iedereen kan het uitletzen
+20
+  sterker kleiner makkelijker op te slaan
