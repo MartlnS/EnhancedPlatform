@@ -76,5 +76,21 @@
     https://www.media.mit.edu/projects/space-craft/overview/
 32
     Moore's law
-  
-  
+35
+  A
+    Ja, dan kan je meerdere programma's tegelijker gebruiken
+  B
+    Ja, wanneer je meerde Cpu kernen of prosessoren hebt is dit mogelijk
+36
+    Voor cassete bantjes, en ook voor het opslaan van data op spoelen. 
+37
+    hogere resolutie, kleur accuratie
+38
+  A
+    Nee, er waren veel andere makkelijkere opties
+  B
+    Nee, want er zijn recente uitgaves van 
+41
+  A 
+    Nee, Windows kan niet samenwerken met andere computers om performance te scalen. 
+    
