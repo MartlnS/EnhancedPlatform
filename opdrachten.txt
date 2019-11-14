@@ -148,3 +148,25 @@
     Apple; Douglas Engelbart
 77
     ja je krijgt het van vaak dezelfde beweging doen; dit heb je als je een muis gebruikt bij je computer 
+    
+9
+    Achterkant
+10
+  A
+    A,G,H,C,B
+  B
+    D,E,F
+  C
+    Via andere connectors
+17
+  A
+    Frontside bus, memory bus, AGP bus
+  B
+    sata, pci bus USb bus
+  C -
+  
+18
+  A
+    Network attached storage
+  B
+    Externe hardeschijf alleen voor een computer, NAS voor iedereen beschikbaar
