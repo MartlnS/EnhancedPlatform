@@ -1,0 +1,172 @@
+1.
+  A Digitaal: als het door een computer kan worden verwerkt.
+    Analoog is de aanduiding voor een bepaald type technologie waarbij gebruikt wordt gemaakt van bepaalde signalen
+  B
+    klok, TV,
+
+3
+  A
+    duur, langzaam, weinig reken capaciteit 
+  B
+    moet erg nauwkeurig zijn als er een klein foutje in zit kan er overal een probleem in zitten.
+
+4
+  A 
+    beide kunnen data verwerken maar een computer kan daar veel meer mee dan een rekenmachine
+  B
+    Computers hebben veel meer mogelijkheden dan rekenmachines 
+
+5
+    draai orgel
+    
+7
+    de Ponskaarten werden ingelezen door kaartlezers in de computer
+    
+8
+    ze hielden zich bezig met ponskaarten printen.
+
+14
+  A
+    Een computer is een apparaat waarmee gegevens volgens formele procedures (algoritmen) kunnen worden verwerkt. Meestal wordt met het woord computer een elektronisch, digitaal apparaat bedoeld, maar er bestaan ook mechanische en analoge computers. Daarnaast kan een computer in verschillende talstelsels zoals het decimale (tientallige) of binaire (tweetallige) stelsel werken. De huidige computers werken altijd in het binaire stelsel. 
+    machine die heel snel kan rekenen en informatie kan verwerken
+  B
+    1938
+    
+15
+  A
+    > 304,510 MIPS
+17
+    ze waren te groot, langzaam, te duur, veel mensen nodig
+18
+    ja het is efficienter
+19
+  A
+    sneller bereikbaar, ponskaart kan stuk geheugen niet
+  B
+    minder ruimte nodig, niet iedereen kan het uitletzen
+20
+  sterker kleiner makkelijker op te slaan
+21
+  A
+    geintergreerde schakelingen (chips)
+  B
+    ze zijn duurzaam
+  C
+    ze hebben oplsag
+27
+  A 
+    ja het is allebei willekeurig 
+28
+  A 
+    code samenstellen; in elkaar zetten
+  B
+    Common Buissines Oriented Language 
+  C
+    Zakelijke omgeving
+29
+    rekunkundige functie
+30
+  A
+    Cobol 
+  B
+    Je snapt je eigen code niet meer
+  C
+    je kan je eigen code makkelijker begrijpen
+31
+    https://www.media.mit.edu/projects/space-craft/overview/
+32
+    Moore's law
+35
+  A
+    Ja, dan kan je meerdere programma's tegelijker gebruiken
+  B
+    Ja, wanneer je meerde Cpu kernen of prosessoren hebt is dit mogelijk
+36
+    Voor cassete bantjes, en ook voor het opslaan van data op spoelen. 
+37
+    hogere resolutie, kleur accuratie
+38
+  A
+    Nee, er waren veel andere makkelijkere opties
+  B
+    Nee, want er zijn recente uitgaves van 
+41
+  A 
+    Nee, Windows kan niet samenwerken met andere computers om performance te scalen. 
+    
+42
+    je kan er veel meer mee dan alleen rankschikken
+43
+  A
+    ja door goed te bekijken of alles klopt en niet even snel iets in elkaar zetten
+  B
+    hun code simpel houden en iemand anders het over laten kijken
+44
+  A
+    ja want ze doen generale dingen en zijn niet specifiek voor een ding gebouwd
+  B
+    ja ze zijn nog steeds goed in het doen van algemene taken  
+    
+46
+  A
+    7 nm 
+  B
+    32.000.000.000
+
+48
+  A
+    een prosessor die 8 bits aan data kan verwerken
+  B
+    64 bit
+  C 
+    clock snelheid 
+51
+  A
+    prijs, marketing
+  B
+    ja alle pc's gebruiken amd of intel CPU's
+  C 
+    nee, verkocht aan Lenovo 
+52
+  A
+    iPod, 
+53
+  A 
+    ja want er zijn geen grote alternatieve naast microsoft windows
+  B
+    ja, Ubuntu 
+    
+59
+    Ja dit kan nog steeds MS-DOS is nog steeds ingebouwd
+62
+    Doordet er een GUI werd geintroduceerd waardoor het gebruiksgemak omhoog ging. 
+65
+    Video bewerking, Gamen, software development
+72
+    veel concurentie
+76
+    Apple; Douglas Engelbart
+77
+    ja je krijgt het van vaak dezelfde beweging doen; dit heb je als je een muis gebruikt bij je computer 
+    
+9
+    Achterkant
+10
+  A
+    A,G,H,C,B
+  B
+    D,E,F
+  C
+    Via andere connectors
+17
+  A
+    Frontside bus, memory bus, AGP bus
+  B
+    sata, pci bus USb bus
+  C -
+  
+18
+  A
+    Network attached storage
+  B
+    Externe hardeschijf alleen voor een computer, NAS voor iedereen beschikbaar
